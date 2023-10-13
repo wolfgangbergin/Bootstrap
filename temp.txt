@@ -1,0 +1,60 @@
+<div class="row ">
+<div class="col-sm-4 col-md-6 col-xl-12  no-gutters" >
+  <img src="pics/image-w856-1.webp" alt="" class="img-fluid">
+</div>
+<div class="col-sm-4 col-md-6 col-xl-12 no-gutters">
+  <img src="pics/image-w856-1.webp" alt="" class="img-fluid">
+</div>
+<div class="col-sm-4 col-md-6 col-xl-12 no-gutters">
+  <img src="pics/image-w856-1.webp" alt="" class="img-fluid">
+</div>
+</div>
+
+<img src="pics/FLbIHMuVIAEB0PN.jpg" alt="" class="img-fluid">
+<img src="pics/gettyimages-93765422.webp" alt="" class="img-fluid">
+///////////////////////////////////////////////
+<!-- <div class="container text-center border border-warning">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio harum praesentium voluptatem autem culpa quae, blanditiis voluptas dolorem adipisci vel, neque ut iure ullam quaerat minus quasi? Earum, impedit autem?  </div> -->
+    <!-- <div class="container text-center">
+      <div class="row border-bottom border-warning">
+        <div class="col">Column</div>
+        <div class="col">Column</div>
+        <div class="col">Column</div>
+        <div class="col-sm-12">Column</div>
+       
+      </div> -->
+      <!-- <div class="row border-bottom border-warning">
+        <div class="col-6 text-danger bg-success">wolfgang</div>
+        <div class="col-6 text-success bg-danger">kim</div> -->
+        <!-- <div class="col-12 bg-black">Column</div>
+        <div class="col-sm-12 bg-warning">Column</div> -->
+        
+      <!-- </div> -->
+      <!-- <div class="container text-center">
+      <div class="row border-bottom border-warning"> -->
+        <!-- <div class="col-2 text-danger bg-success">wolfgang</div>
+        
+        <div class="col-6 text-success bg-danger">kim</div> -->
+        <!-- <div class="col-4 text-danger bg-success">wolfgang</div>
+        </div> -->
+
+///////////////////////////////////////////////
+              <h2 class="display-4 text-end" > responsive grid</h2>
+       
+        <div class="row border border-warning align-items-center">
+          <div class="col  bg-black align-self-start" >         tempore 
+          </div>
+          <div class="col  bg-danger ">         tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?
+          </div>
+          <div class="col  bg-warning">         tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?empore quas ab iure quibusdam sint aliquid eos qempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?uidem cum ex molestias magni?
+          </div>
+          <div class="col bg-success ">       tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?tempore  tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?
+          </div>
+      </div>
+    </div>
+    </div>
+    <h3> justify content</h3>
+    <div class="row border justify-content-center justify-content-lg-start justify-content-xl-between" >
+      <div class="col-md-4 pink ">tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?</div>
+      <div class="col-md-4 bg-black ">tempore quas ab iure quibusdam sint aliquid eos tempore quas ab iure quibusdam sint aliquid eos quidem cum ex molestias magni?quidem cum ex molestias magni?</div>
+    </div>
+   
