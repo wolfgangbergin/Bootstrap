@@ -301,3 +301,33 @@
       </svg>
     
     </button>
+
+    ///////////////////////////////////////////////
+      <div class="my-5">
+   <button class=" bg-danger " type="button " >wolfgang</button>
+   <button type="button" class="btn btn-primary pt-5">Primary</button>
+  <button type="button" class="btn btn-secondary p-1 m-5">Secondary</button>
+  <button type="button" class="btn btn-success  p-2 m-0">Success</button>
+  <button type="button" class="btn btn-danger p-3 m-5">Danger</button>
+  <button type="button" class="btn btn-warning p-4 ">Warning</button>
+  <button type="button" class="btn btn-info p-5">Info</button>
+  <button type="button" class="btn btn-light ">Light</button>
+  <button type="button" class="btn btn-dark ">Dark</button>
+  
+  <button type="button" class="btn btn-link">Link</button>
+</div>
+<div>
+  <button type="button" class="btn btn-outline-primary pt-5">Primary</button>
+  <button type="button" class="btn btn-outline-secondary pb-5">Secondary</button>
+  <button type="button" class="btn btn-outline-success ps-5">Success</button>
+  <button type="button" class="btn btn-outline-danger pe-5">Danger</button>
+  <button type="button" class="btn btn-outline-warning px-5">Warning</button>
+  <button type="button" class="btn btn-outline-info py-5">Info</button>
+  <button type="button" class="btn btn-outline-light p-5">Light</button>
+  <button type="button" class="btn btn-outline-dark">Dark</button>
+</div>
+<div class="m-5 mb-0">
+
+  <button type="button" class="btn btn-outline-danger p-0 p-sm-1 p-sm-1 p-md-2 p-lg-3 p-xl-5">Danger</button>
+ 
+</div>
